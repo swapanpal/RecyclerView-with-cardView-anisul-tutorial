@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">MyRecyclerView</string>
+    <string-array name="country_names">
+        <item>Australia</item>
+        <item>Bangladesh</item>
+        <item>Bhutan</item>
+        <item>Canada</item>
+        <item>Denmark</item>
+        <item>Egypt</item>
+        <item>Finland</item>
+        <item>Germany</item>
+        <item>Honduras</item>
+        <item>India</item>
+        <item>Japan</item>
+        <item>Kenya</item>
+    </string-array>
+
+    <string-array name="country_decs">
+        <item>Australia is a rich country</item>
+        <item>Bangladesh is my homeland</item>
+        <item>Bhutan is a beautiful country</item>
+        <item>Canada is a calm country</item>
+        <item>Denmark is my love</item>
+        <item>Egypt is a muslim country</item>
+        <item>Finland is a cool country</item>
+        <item>Germany where i wants to go</item>
+        <item>Honduras is an african country</item>
+        <item>India is a big country</item>
+        <item>Japan is a eastern country</item>
+        <item>Kenya is a poor country</item>
+    </string-array>
+</resources>
